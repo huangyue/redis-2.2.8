@@ -805,6 +805,8 @@ void initServerConfig() {
 
     // Least Recently Used
     // 最近最少使用算法
+    //
+    // 哈哈
     updateLRUClock();
     resetServerSaveParams();
 
