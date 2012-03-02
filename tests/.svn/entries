@@ -1,0 +1,77 @@
+10
+
+dir
+83
+svn://192.168.137.128/redis-2.2.8/tests
+svn://192.168.137.128
+
+
+
+2012-02-20T13:52:50.076331Z
+83
+moon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+70dc9bb5-626a-4b1b-aa14-100b6428229d
+
+unit
+dir
+
+test_helper.tcl
+file
+
+
+
+
+2012-02-20T13:53:37.472792Z
+11fa92399677559a3783f29f36ebbea3
+2012-02-20T13:52:50.076331Z
+83
+moon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6072
+
+tmp
+dir
+
+assets
+dir
+
+integration
+dir
+
+support
+dir
+
